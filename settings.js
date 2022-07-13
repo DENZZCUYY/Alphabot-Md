@@ -24,10 +24,10 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 global.botname = "DENZZBOTZ" //namabot kalian
-global.ownername= "DENZZCUY" //nama kalian
+global.ownername= "DENZZCUYY" //nama kalian
 global.myweb ="https://api.Denz.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg" //bebas asal jan hapus
-global.github = "https://github.com/YTDANIBOTZ" //bebas
+global.github = "https://github.com/DENZZCUYY" //bebas
 global.email = "danibotz691@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
@@ -38,7 +38,7 @@ global.thumbnail = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // ini lol.jpg
 global.donasi = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© DENZZCUY' //sticker wm ubah
+global.packname = '© DENZZCUYY' //sticker wm ubah
 global.author = 'Di Buat Oleh DENZZBOTZ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
@@ -53,13 +53,13 @@ global.mess = {
     sukses: '🤗Done, Oke Bang~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑 !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh DENZZCUYY !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑!',
+	lockCmd: 'Fitur Tidak Diaktifkan Oleh DENZZCUYY!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
